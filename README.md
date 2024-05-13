@@ -1,6 +1,6 @@
 # base_study
 
-
+RNN/LSTM
 
 |CV1| CV2| NLP1|	NLP2|
 |---|---|---|---|
